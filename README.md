@@ -2,7 +2,7 @@
 <html>
 	<body>
 		<h1>
-			Hello, I'm diglt (also known as neural)!
+			Hello, I'm digit (also known as neural)!
 		</h1>
 		<p>
 			I'm a (primarily) Luau script developer currently learning Python and considering exploring C# or C++ in the future.
