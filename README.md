@@ -14,7 +14,9 @@
 			If you wish to contact me, you can reach out to me on Discord at n.eural.
 		</p>
 		<p>
+			<b>
 			pls don't skid my code i workd very hard 😭
+			</b>
 		</p>
 	</body>
 </html>
