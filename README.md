@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<body>
+		<center>
 		<h1>
 			Hello, I'm digit (also known as neural)!
 		</h1>
@@ -15,8 +16,12 @@
 		</p>
 		<p>
 			<b>
-			pls don't skid my code i workd very hard 😭
+				pls don't skid my code, dm me and i will explain a function to you. :)
 			</b>
 		</p>
+		</center>
 	</body>
 </html>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diglt&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diglt&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
