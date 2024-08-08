@@ -13,8 +13,8 @@
 			<h1> Know well: 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/128px-Lua-Logo.svg.png"
-				 width="50"
-				 height="50"
+				 width="30"
+				 height="30"
 				 onClick="https://www.lua.org/manual/5.4/"
 				 alt=""
 			>
@@ -22,22 +22,22 @@
 			Learning 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png"
-				 width="50"
-				 height="50"
+				 width="30"
+				 height="30"
 				 alt=""
 			>
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"
-				 width="50"
-				 height="50"
+				 width="30"
+				 height="30"
 				 alt=""
 				 >
 			<br>
 			Want to learn: 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png"
-				 width="50"
-				 height="50"
+				 width="30"
+				 height="30"
 				 alt=""
 				 >
 		</h1>
