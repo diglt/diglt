@@ -15,7 +15,7 @@
 			300k+ views on https://rscripts.net/@digit 
 		</p>
 		<p>
-			50K Views on https://pastebin.com/u/diglt
+			50K+ Views on https://pastebin.com/u/diglt
 		</p>
 		<p>
 			If you wish to contact me, you can reach out to me on Discord at n.eural.
