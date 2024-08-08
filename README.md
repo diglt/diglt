@@ -6,18 +6,19 @@
 			Hello, I'm digit (also known as neural)
 			<br>
 			Currently 16 years old!
+			<br>
+			Here's a list of languages i either know, learning or am going to learn:
 		</h1>
-			<h1> Here's a list of languages i either know, learning or am going to learn: </h1>
-		<p>
-			<h1> Know well: </h1>
+			<h1> Know well: 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/128px-Lua-Logo.svg.png"
 				 width="50"
 				 height="50"
+				 onClick="https://www.lua.org/manual/5.4/"
 				 alt=""
 			>
-		</p>
-			<h1> Learning </h1>
+			<br>
+			Learning 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png"
 				 width="50"
@@ -30,13 +31,15 @@
 				 height="50"
 				 alt=""
 				 >
-			<h1> Want to learn: </h1>
+			<br>
+			Want to learn: 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png"
 				 width="50"
 				 height="50"
 				 alt=""
 				 >
+		</h1>
 		<p>
 			<h1> Info on me: </h1>
 			I haven't made anything particularrly special, yet if ur interested, 
