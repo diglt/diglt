@@ -7,6 +7,7 @@
 			<br>
 			Currently 16 years old!
 			<br>
+			<br>
 			Here's a list of languages i either know, learning or am going to learn:
 		</h1>
 			<h1> Know well: 
