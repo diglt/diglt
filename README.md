@@ -1,31 +1,65 @@
 <!DOCTYPE html>
 <html>
 	<body>
-		<center>
+	<center>
 		<h1>
-			Hello, I'm digit (also known as neural)!
+			Hello, I'm digit (also known as neural)
+			<br>
+			Currently 16 years old!
 		</h1>
+			<h1> Here's a list of languages i either know, learning or am going to learn: </h1>
 		<p>
-			I'm a (primarily) Luau script developer currently learning Python and considering exploring C# or C++ in the future.
+			<h1> Know well: </h1>
+			<img 
+				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/128px-Lua-Logo.svg.png"
+				 width="50"
+				 height="50"
+				 alt=""
+			>
 		</p>
+			<h1> Learning </h1>
+			<img 
+				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png"
+				 width="50"
+				 height="50"
+				 alt=""
+			>
+			<img 
+				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"
+				 width="50"
+				 height="50"
+				 alt=""
+				 >
+			<h1> Want to learn: </h1>
+			<img 
+				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png"
+				 width="50"
+				 height="50"
+				 alt=""
+				 >
 		<p>
+			<h1> Info on me: </h1>
 			I haven't made anything particularrly special, yet if ur interested, 
-		</p>
-		<p>
-			300k+ views on https://rscripts.net/@digit 
-		</p>
-		<p>
+			<br>
+			300k+ views on https://rscripts.net/@digit
+			<br>
 			50K+ Views on https://pastebin.com/u/diglt
-		</p>
-		<p>
-			If you wish to contact me, you can reach out to me on Discord at n.eural.
+			<br>
+			If you wish to contact me, you can reach out to me on Discord at <b>n.eural.</b>
+			<br>
 		</p>
 		<p>
 			<b>
 				pls don't skid my code, dm me and i will explain a function to you. :)
 			</b>
 		</p>
-		</center>
+			<img 
+				 src="https://media1.tenor.com/m/Sr8QihyWNgEAAAAd/punpun.gif"
+				 height="400"
+				 width="400"
+				 alt=""
+			>
+	</center>
 	</body>
 </html>
 
