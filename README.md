@@ -43,6 +43,8 @@
 		</h1>
 		<p>
 			<h1> Info on me: </h1>
+			<b> OPEN SOURCE ENTHUSIAST! </b>
+			<br>
 			I haven't made anything particularrly special, yet if ur interested, 
 			<br>
 			300k+ views on https://rscripts.net/@digit
