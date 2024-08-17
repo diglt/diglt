@@ -13,8 +13,8 @@
 			<h1> Know well: 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/128px-Lua-Logo.svg.png"
-				 width="30"
-				 height="30"
+				 width="50"
+				 height="50"
 				 onClick="https://www.lua.org/manual/5.4/"
 				 alt=""
 			>
@@ -22,22 +22,28 @@
 			Learning: 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png"
-				 width="30"
-				 height="30"
+				 width="50"
+				 height="50"
 				 alt=""
 			>
 			<img 
-				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"
-				 width="30"
-				 height="30"
+				 src="https://imgs.search.brave.com/hlJLlUrLwzhpgfcIGN6vE9eNlJsA4TAPtoEGQNUY0e4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE4L0NfUHJvZ3Jh/bW1pbmdfTGFuZ3Vh/Z2Uuc3Zn"
+				 width="50"
+				 height="50"
+				 alt=""
+				 >
+			<img 
+				 src="https://imgs.search.brave.com/fwOD7cVO8n0triTpajdEFkNo6wgW4HpsZ9hJDaNlslA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJx/aGRmL3N0eWxlcy9j/b21tdW5pdHlJY29u/X3NrOGsyaGlzdnl2/NTEucG5n"
+				 width="50"
+				 height="50"
 				 alt=""
 				 >
 			<br>
 			Want to learn: 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png"
-				 width="30"
-				 height="30"
+				 width="50"
+				 height="50"
 				 alt=""
 				 >
 		</h1>
