@@ -32,12 +32,6 @@
 				 height="50"
 				 alt=""
 				 >
-			<img 
-				 src="https://imgs.search.brave.com/fwOD7cVO8n0triTpajdEFkNo6wgW4HpsZ9hJDaNlslA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJx/aGRmL3N0eWxlcy9j/b21tdW5pdHlJY29u/X3NrOGsyaGlzdnl2/NTEucG5n"
-				 width="50"
-				 height="50"
-				 alt=""
-				 >
 			<br>
 			Want to learn: 
 			<img 
