@@ -8,6 +8,9 @@
 			Currently 16 years old!
 			<br>
 			<br>
+			I have been scripting for about just over year and a half or so, i started on either Janury 1st 2023 or Febuary 1st 2023!
+			<br>
+			<br>
 			Here's a list of languages i either know, learning or am going to learn:
 		</h1>
 			<h1> Know well: 
