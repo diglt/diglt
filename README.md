@@ -10,7 +10,7 @@
 			<br>
 				I have been scripting for 1 year and 1/2+.
 			<br>
-				i started on either Janury 1st 2023 or Febuary 1st 2023!
+				I started on either Janury 1st 2023 or Febuary 1st 2023!
 			<br>
 			<br>
 				Here's a list of languages i either know, learning or am going to learn:
