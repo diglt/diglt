@@ -58,7 +58,7 @@
 			<br>
 			I haven't made anything particularrly special, yet if ur interested, 
 			<br>
-			300k+ views on https://rscripts.net/@digit
+			400k+ views on https://rscripts.net/@digit
 			<br>
 			50K+ Views on https://pastebin.com/u/diglt
 			<br>
