@@ -70,12 +70,6 @@
 				pls don't skid my code, dm me and i will explain a function to you. :)
 			</b>
 		</p>
-			<img 
-				 src="https://gifdb.com/images/high/evangelion-second-angel-lilith-8paeaa2p6nvf38a2.webp"
-				 height="450"
-				 width="450"
-				 alt=""
-			>
 	</center>
 	</body>
 </html>
