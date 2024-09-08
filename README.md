@@ -22,8 +22,8 @@
 			<h1> Know well: 
 			<img 
 				 src="https://imgs.search.brave.com/uPZX-d-N9MXR5febezsRrXyIEzWLXlLHuSQv_VXHCy4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kZXZm/b3J1bS11cGxvYWRz/LnMzLmR1YWxzdGFj/ay51cy1lYXN0LTIu/YW1hem9uYXdzLmNv/bS91cGxvYWRzL29y/aWdpbmFsLzRYL2Mv/NS9hL2M1YWNmMTY4/NWJkZjM0ZDFkNzIx/YzBjNWVjOGZjM2M0/ZThjODBiMDMucG5n"
-				 width="75"
-				 height="75"
+				 width="50"
+				 height="50"
 				 onClick="https://www.lua.org/manual/5.4/"
 				 alt=""
 			>
@@ -77,6 +77,7 @@
 	</center>
 	</body>
 </html>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diglt&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diglt&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
