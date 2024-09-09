@@ -13,10 +13,10 @@
 		<h1>
 			Hello, I'm digit (also known as neural)
 			<br>
-				Currently 16 years old!
+				Currently 16 years old
 			<br>
 			<br>
-				I began scripting on Febuary 1st 2023!
+				I began scripting on Febuary 1st 2023, starting with making shitty roblox exploiting scirpts
 			<br>
 			<br>
 				Here's a list of languages i either know, learning or am going to learn:
