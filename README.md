@@ -16,7 +16,7 @@
 				Currently 16 years old
 			<br>
 			<br>
-				First Time Scripting: 1/02/23
+				First Time Scripting: 01/02/23
 			<br>
 			<br>
 				Here's a list of languages i either know, learning or am going to learn:
