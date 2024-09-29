@@ -4,12 +4,6 @@
 <html>
 	<body>
 	<center>
-		<img 
-		 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5zZWIzbnByMnAxOGQzNHhla3Y0OWs4aHU1NWM1bzJ5Y3czeTl6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PMcyzEALWVUS2IAcjC/200.webp"
-		 width="500"
-		 height="500"
-		 alt="centre"
-		>
 		<h1>
 			Hello, I'm digit (also known as neural)
 			<br>
