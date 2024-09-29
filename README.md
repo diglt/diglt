@@ -7,7 +7,7 @@
 		<h1>
 			Hello, I'm digit (also known as neural)
 			<br>
-				Currently 16 years old
+				I'm a mediocre scripter who wastes his time on random projects!
 			<br>
 			<br>
 				First Time Scripting: 01/02/23
