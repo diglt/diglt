@@ -13,7 +13,14 @@
 				First Time Scripting: 01/02/23
 			<br>
 			<br>
-				Here's a list of languages i'm either self taught in, learning through college / an online course or am going to learn:
+				Here's a list of languages i'm either:
+			<br>
+					• self taught in
+			<br>
+					• learning through college / an online course
+			<br>
+			 		• going to learn:
+			<br>
 		</h1>
 			<h1> Self Taught (Know Well): 
 			<img 
