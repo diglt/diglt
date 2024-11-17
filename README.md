@@ -5,7 +5,7 @@
 	<body>
 	<center>
 		<h1>
-			Hello, I'm neural
+			Hello, I'm digit
 			<br>
 				I'm a mediocre scripter who wastes his time on random projects!
 			<br>
