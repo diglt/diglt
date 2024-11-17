@@ -38,16 +38,16 @@
 				 height="50"
 				 alt=""
 			>
-			<img 
-				 src="https://imgs.search.brave.com/hlJLlUrLwzhpgfcIGN6vE9eNlJsA4TAPtoEGQNUY0e4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE4L0NfUHJvZ3Jh/bW1pbmdfTGFuZ3Vh/Z2Uuc3Zn"
-				 width="50"
-				 height="50"
-				 alt=""
-				 >
 			<br>
 			Want to learn: 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png"
+				 width="50"
+				 height="50"
+				 alt=""
+				 >
+			<img 
+				 src="https://imgs.search.brave.com/hlJLlUrLwzhpgfcIGN6vE9eNlJsA4TAPtoEGQNUY0e4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE4L0NfUHJvZ3Jh/bW1pbmdfTGFuZ3Vh/Z2Uuc3Zn"
 				 width="50"
 				 height="50"
 				 alt=""
