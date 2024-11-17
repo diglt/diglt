@@ -18,8 +18,15 @@
 			<h1> Know well: 
 			<img 
 				 src="https://imgs.search.brave.com/uPZX-d-N9MXR5febezsRrXyIEzWLXlLHuSQv_VXHCy4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kZXZm/b3J1bS11cGxvYWRz/LnMzLmR1YWxzdGFj/ay51cy1lYXN0LTIu/YW1hem9uYXdzLmNv/bS91cGxvYWRzL29y/aWdpbmFsLzRYL2Mv/NS9hL2M1YWNmMTY4/NWJkZjM0ZDFkNzIx/YzBjNWVjOGZjM2M0/ZThjODBiMDMucG5n"
-				 width="50"
-				 height="50"
+				 width="100"
+				 height="100"
+				 onClick="https://www.lua.org/manual/5.4/"
+				 alt=""
+			>
+			<img 
+				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png"
+				 width="100"
+				 height="100"
 				 onClick="https://www.lua.org/manual/5.4/"
 				 alt=""
 			>
