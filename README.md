@@ -13,9 +13,9 @@
 				First Time Scripting: 01/02/23
 			<br>
 			<br>
-				Here's a list of languages i either know, learning or am going to learn:
+				Here's a list of languages i'm either self taught in, learning through college / an online course or am going to learn:
 		</h1>
-			<h1> Know well: 
+			<h1> Self Taught (Know Well): 
 			<img 
 				 src="https://imgs.search.brave.com/uPZX-d-N9MXR5febezsRrXyIEzWLXlLHuSQv_VXHCy4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kZXZm/b3J1bS11cGxvYWRz/LnMzLmR1YWxzdGFj/ay51cy1lYXN0LTIu/YW1hem9uYXdzLmNv/bS91cGxvYWRzL29y/aWdpbmFsLzRYL2Mv/NS9hL2M1YWNmMTY4/NWJkZjM0ZDFkNzIx/YzBjNWVjOGZjM2M0/ZThjODBiMDMucG5n"
 				 width="75"
@@ -31,13 +31,15 @@
 				 alt=""
 			>
 			<br>
-			Learning: 
+			Learning Through Course: 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png"
 				 width="75"
 				 height="75"
 				 alt=""
 			>
+			<br>
+			Learning Through College: 
 			<img 
 				 src="https://imgs.search.brave.com/t8sT0jJIc-QE1Q-g3tnrkqHOdeyHo_NoVXBZmxxDsqQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xNDkz/NjA5NzQudjIucHJl/c3NhYmxlY2RuLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wMy9hY2Nlc3Mt/ZGF0YWJhc2Utc3Bl/Y2lhbGlzdHMucG5n"
 				 width="100"
@@ -51,7 +53,7 @@
 				 alt=""
 			>
 			<br>
-			Want to learn: 
+			Want to self teach: 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png"
 				 width="50"
