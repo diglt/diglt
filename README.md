@@ -18,15 +18,15 @@
 			<h1> Know well: 
 			<img 
 				 src="https://imgs.search.brave.com/uPZX-d-N9MXR5febezsRrXyIEzWLXlLHuSQv_VXHCy4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kZXZm/b3J1bS11cGxvYWRz/LnMzLmR1YWxzdGFj/ay51cy1lYXN0LTIu/YW1hem9uYXdzLmNv/bS91cGxvYWRzL29y/aWdpbmFsLzRYL2Mv/NS9hL2M1YWNmMTY4/NWJkZjM0ZDFkNzIx/YzBjNWVjOGZjM2M0/ZThjODBiMDMucG5n"
-				 width="100"
-				 height="100"
+				 width="75"
+				 height="75"
 				 onClick="https://www.lua.org/manual/5.4/"
 				 alt=""
 			>
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png"
-				 width="100"
-				 height="100"
+				 width="75"
+				 height="75"
 				 onClick="https://www.lua.org/manual/5.4/"
 				 alt=""
 			>
@@ -34,8 +34,20 @@
 			Learning: 
 			<img 
 				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png"
-				 width="50"
-				 height="50"
+				 width="75"
+				 height="75"
+				 alt=""
+			>
+			<img 
+				 src="https://imgs.search.brave.com/t8sT0jJIc-QE1Q-g3tnrkqHOdeyHo_NoVXBZmxxDsqQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xNDkz/NjA5NzQudjIucHJl/c3NhYmxlY2RuLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wMy9hY2Nlc3Mt/ZGF0YWJhc2Utc3Bl/Y2lhbGlzdHMucG5n"
+				 width="100"
+				 height="75"
+				 alt=""
+			>
+			<img 
+				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"
+				 width="75"
+				 height="75"
 				 alt=""
 			>
 			<br>
