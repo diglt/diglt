@@ -5,7 +5,7 @@
 	<body>
 	<center>
 		<h1>
-			Hello, I'm digit. I also go as "neural"
+			Hello, I'm digit also known as "neural"
 			<br>
 				I'm a mediocre ,mainly luau, scripter.
 			<br>
