@@ -7,7 +7,7 @@
 		<h1>
 			Hello, I'm digit
 			<br>
-				I'm a mediocre , mainly luau, scripter.
+				I'm a mediocre ,mainly luau, scripter.
 			<br>
 			<br>
 				First Time Scripting: 01/02/23
